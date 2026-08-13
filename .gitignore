@@ -1,2 +1,7 @@
 *
 !project1_recipes/
+!project1_recipes/*
+!project1_recipes/recipes/
+!project1_recipes/recipes/*
+!project1_recipes/recipes/images/
+!project1_recipes/recipes/images/*
